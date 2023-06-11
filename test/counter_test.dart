@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_testing_sample/counter.dart';
+import 'package:flutter_testing_sample/unit_testing/counter.dart';
 
 void main() {
   test('Counter value should be incremented', () {
